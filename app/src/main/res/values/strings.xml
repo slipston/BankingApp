@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Banking App</string>
+    <string name="name">Name</string>
+    <string name="expense">Expense</string>
+    <string name="edit_item">Edit item</string>
+    <string name="item_dialog">Item Dialog</string>
+    <string name="graph_of_items">Graph of Items</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="enter_price_here">Enter price here</string>
+    <string name="income">Income</string>
+    <string name="amount">Amount</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="add_item">Add item</string>
+    <string name="delete_all">Delete All</string>
+    <string name="graph">Graph</string>
+</resources>
